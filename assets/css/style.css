@@ -1,11 +1,23 @@
-/* Class Selectors
-.header {
-    display: flex;
-    justify-content: space-between;
-    padding: 60px;
-    background: green;
-    color: gray
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
+
+header {
+    height: 60px;
+    width: 100%;
+    line-height: 63px;
+    font-size: larger;
+    font-weight: bold;
+    background: rgb(162, 232, 162);
+    color:black
+}
+
+li {
+    display: inline;
+    padding: 0px 105px;
+}
+
 
 .text-center {
     text-align: center;
@@ -13,4 +25,4 @@
 
 .text-right {
     text-align: right;
-} */
+} 
