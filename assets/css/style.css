@@ -3,6 +3,7 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
+
 }
 
 header {
@@ -21,7 +22,9 @@ li {
 }
 
 section{
-    /* flex-direction: column; */
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
     justify-content: space-around;
 }
 
@@ -40,3 +43,8 @@ article{
 .text-right {
     text-align: right;
 } 
+
+.img-main {
+    width: 100px;
+    height: 200px;
+}
