@@ -13,12 +13,19 @@ header {
     font-size: larger;
     font-weight: bold;
     background: rgb(162, 232, 162);
-    color:black
+    color:black;
+    /* position: inherit; */
+    
 }
 
-li {
-    display: inline;
-    padding: 0px 105px;
+/* nav{
+    position: relative;
+} */
+
+nav ul li {
+       display: inline;
+    padding: 7px 24px;
+    border: 2px solid black;
 }
 
 section{
@@ -52,6 +59,17 @@ h1{
     height: 200px;
 }
 
+/* .flexbox-container-header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+} */
+
+/* .flexbox-nav{
+    display: inline;
+} */
+
 .flexbox-container-section{
     display: flex;
     flex-direction: column;
@@ -69,8 +87,6 @@ h1{
 .flexbox-about-me{
     /* width: 200px;
     margin: 10px; */
-    display:inline;
-
     border: 3px solid black;
     background-color: aqua;
 }
