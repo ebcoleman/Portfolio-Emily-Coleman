@@ -52,7 +52,7 @@ h2{
 }
 
 h3{
-    padding: 20px 10px;
+    padding: 20px 35px;
 }
 
 img{
@@ -64,19 +64,20 @@ img{
     text-align: center;
 }
 
-.text-right {
-    text-align: right;
-} 
-
 .img-main {
-    width: 25%;
-    height: 25%;
+    width: 19%;
+    height: 19%;
     padding: 15px 15px;
 }
 
-.img-webpage {
-    width: 20%;
-    height: 20%;
+.img-webpage-1 {
+    width: 251px;
+    height: 323px;
+}
+
+.img-webpage-2 {
+    width: 265px;
+    height: 175px;
 }
 
 .flexbox-container-section{
