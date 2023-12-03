@@ -10,7 +10,7 @@ This is a Portfolio webpage for Emily Coleman. This webpage provides a small abo
 
 <!-- will need a screenshot of the webpage and a link to the LIVE webpage -->
 Screenshot:
-[](assets/images/ADV-CSS-HW.jpg)
+![Alt text](assets/images/ADV-CSS-HW.jpg)
 
 Link:
 
