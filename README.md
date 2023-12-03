@@ -2,19 +2,16 @@
 
 ## Description
 
-This is a Portfolio webpage for Emily Coleman. This webpage provides a small about me section, a work section that displays her projects and a contact me section. This project was made to create a working example of the skills that Emily has acquired over time. Ultimately, this will be used as a great tool to show future employers what Emily has to offer. 
+This is a Portfolio webpage for Emily Coleman. This webpage provides a small "about me" section, a work section that displays her projects and a "contact me" section. This project was made to create a working example of the skills that Emily has acquired over time. Ultimately, this will be used as a great tool to show future employers what Emily has to offer. 
 
-<!-- needs a properly structured description -->
 
 ## Usage
 
-<!-- will need a screenshot of the webpage and a link to the LIVE webpage -->
 Screenshot:
 ![Alt text](assets/images/ADV-CSS-HW.jpg)
 
 Link:
-
-
+https://ebcoleman.github.io/Portfolio-Emily-Coleman/
 
 
 ## Credits
