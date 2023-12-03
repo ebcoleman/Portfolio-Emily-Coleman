@@ -9,12 +9,13 @@ body{
 header {
     height: 60px;
     width: 100%;
+    padding: 2px 7px;
     line-height: 63px;
     font-size: larger;
     font-weight: bold;
     background: rgb(162, 232, 162);
     color:black;
-    /* position: inherit; */
+
     
 }
 

@@ -17,3 +17,4 @@ https://teamtreehouse.com/community/turn-each-list-item-into-a-link-the-first-it
 https://www.w3schools.com/css/css_templates.asp
 <!-- Flexbox help -->
 https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
+https://www.youtube.com/watch?v=fYq5PXgSsbE&t=799s
